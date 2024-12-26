@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 # Inisialisasi WebDriver di luar fungsi
-service = Service(r'D:\chromedriver\chromedriver-win64\chromedriver.exe')
+service = Service(r'direktori web driver')
 driver = webdriver.Chrome(service=service)
 
 def cek_peserta(id_peserta, is_first_iteration):
