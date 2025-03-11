@@ -2,7 +2,7 @@
 **ParticipantChecker** is a Python-based automation script designed to verify participant information on a web-based announcement system. This script uses Selenium to interact with the web form, automating the process of inputting participant IDs and retrieving corresponding results.
 
 ## Features
-- Automates participant verification on the [Tanoto Foundation Scholarship](https://form.jotform.com/242969188886482) announcement page (powered by JotForm).
+- Automates participant verification on the [Scholarship](https://form.jotform.com/242969188886482) announcement page (powered by JotForm).
 - Retrieves and displays participant names and their university of origin.
 - Handles iterative input of multiple participant IDs from a text file.
 - Saves results and errors to an output file for later review.
